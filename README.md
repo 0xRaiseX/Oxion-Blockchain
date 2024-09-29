@@ -1,4 +1,4 @@
-# Новый Блокчейн
+# New Blockchain
 
 ![Development Status](https://img.shields.io/badge/status-in%20development-yellow)
 
